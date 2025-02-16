@@ -1,0 +1,39 @@
+---
+de:
+  titles:
+    pages:
+      home: "Komponenten mit Phlex (Rails)"
+  aria_labels:
+    modal:
+      close: "Schließen"
+  buttons:
+    modal:
+      close: "Schließen"
+  headings:
+    pages:
+      home:
+        cards: "Cards"
+    cards: "Cards"
+  sub_headings:
+    pages:
+      home:
+        modals: "Modals"
+        cards: "Cards"
+      cards: "Die Karten von Bootstrap bieten einen flexiblen und erweiterbaren Inhaltscontainer mit mehreren Varianten und Optionen."
+  articles:
+    pages:
+      home:
+        modal: "Dialoge (Modale) flexibel und einfach in deiner Seite einbinden ohne sich an das Bootstrap Markup erinnern zu müssen."
+        card: "Inhalte gruppieren oder hervorheben - das geht am besten mit Karten"
+  actions:
+    back: "Zurück"
+  descriptions:
+    pages:
+      cards:
+        card-header: "Das ist der Header"
+        with-body-only: "Diese Karte hat nur einen Body"
+        with-header-body: "Diese Karte hat, zusätzlich zum Body, auch einen Header."
+        title: "Das ist der Kartentitel"
+        with-header-body-and-title: "Neben dem Header hat der Body einen Titel"
+        with-header-body-and-footer: "Diese Karte hat Header, Body und Footer"
+        card-footer: "Das ist der Footer"

@@ -1,0 +1,26 @@
+---
+en:
+  titles:
+    pages:
+      home: "Components with Phlex (Rails)"
+  aria_labels:
+    modal:
+      close: "Close"
+  buttons:
+    modal:
+      close: "Close"
+  headings:
+    pages:
+      home: "Phlex components with Bootstrap"
+  sub_headings:
+    pages:
+      home:
+        modals: "Modals"
+        cards: "Cards"
+  articles:
+    pages:
+      home:
+        modal: "Integrate dialogs (modals) flexibly and easily into your page without having to remember the bootstrap markup."
+        card: "Grouping or highlighting content - this works best with cards"
+  actions:
+    back: "Back"
