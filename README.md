@@ -1,4 +1,4 @@
-# Phlex@ichmachwasmit.computer
+# Phlex.ichmachwasmit.computer
 
 Just trying something new - this time [Phlex](https://www.phlex.fun/) in a Rails app.
 
