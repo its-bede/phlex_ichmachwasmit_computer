@@ -2,7 +2,7 @@
 service: phlex_ichmachwasmit_computer
 
 # Name of the container image.
-image: itsbede/ots_ichmachwasmit_computer
+image: itsbede/phlex_ichmachwasmit_computer
 
 # Deploy to these servers.
 servers:
@@ -35,7 +35,7 @@ registry:
 env:
   secret:
     - RAILS_MASTER_KEY
-  clear:
+  # clear:
     # Run the Solid Queue Supervisor inside the web server's Puma process to do jobs.
     # When you start using multiple servers, you should split out job processing to a dedicated machine.
     # SOLID_QUEUE_IN_PUMA: true
