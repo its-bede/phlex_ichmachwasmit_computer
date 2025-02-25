@@ -37,3 +37,10 @@ de:
         with-header-body-and-title: "Neben dem Header hat der Body einen Titel"
         with-header-body-and-footer: "Diese Karte hat Header, Body und Footer"
         card-footer: "Das ist der Footer"
+  views:
+    pages:
+      modals:
+        dismissible-modal:
+          body_html: "Dieser Modal lässt sich durch einen Schließen-Button im Header und/oder einen Schließen-Button im Footer schließen. Durch das setzen der Option <code>dismissible: true</code> werden die beiden genannten Elemente zum Modal hinzugefügt."
+        static-backdrop-modal:
+          body_html: "Dieser Modal lässt sich <b>nicht</b> durch drücken der <kbd>ESC</kbd>-Taste oder einen Klick neben das Modal schließen. Durch das setzen der Option <code>static_backdrop: true</code> wird das verhindert. Lediglich durch den Schließen Button im Footer oder ein erneutes Laden der Seite ist ein Schließen des Modals möglich."
